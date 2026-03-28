@@ -98,8 +98,24 @@ plt.show()
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+![WhatsApp Image 2026-03-28 at 4 18 32 PM](https://github.com/user-attachments/assets/fbe6c3d3-2a53-406f-907c-dd4a36bb16f7)
 
+
+
+
+![WhatsApp Image 2026-03-28 at 4 18 56 PM](https://github.com/user-attachments/assets/2200b9c0-6a1c-489b-b05f-8b9951ff850e)
+
+
+
+![WhatsApp Image 2026-03-28 at 4 19 42 PM](https://github.com/user-attachments/assets/86cbe53b-70be-4980-88d6-65eb6604087c)
+
+
+
+![WhatsApp Image 2026-03-28 at 4 20 32 PM](https://github.com/user-attachments/assets/2bfc530d-19b9-492e-895e-cf560ba20e4e)
+
+
+
+![WhatsApp Image 2026-03-28 at 4 20 53 PM](https://github.com/user-attachments/assets/9e4fbc24-0b59-486d-a94c-3a788b7f072b)
 
 ## Result:
 Thus, the program to implement a linear regression model for predicting car prices is written and verified using Python programming, along with the testing of key assumptions for linear regression.
